@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/sanjeeth/.config/terminator'
+let g:netrw_dirhist_1='/home/sanjeeth/sample.cpp'
+let g:netrw_dirhist_0='/home/sanjeeth/.config/termite'
+let g:netrw_dirhist_9='/home/sanjeeth/.w3m'
+let g:netrw_dirhist_8='/home/sanjeeth/.config/termite'
+let g:netrw_dirhist_7='/home/sanjeeth/.config/alacritty'
+let g:netrw_dirhist_6='/home/sanjeeth/.config/tint2'
+let g:netrw_dirhist_5='/home/sanjeeth/.vim'
+let g:netrw_dirhist_4='/home/sanjeeth/sample'
+let g:netrw_dirhist_3='/home/sanjeeth/.config/pcmanfm/default'
